@@ -1,0 +1,3 @@
+// ignora todo menos los archivos .c
+*
+!*.c
